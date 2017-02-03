@@ -1,0 +1,13 @@
+.list h1 {
+  margin-bottom: 0;
+}
+
+.list ul {
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.list li {
+  display: block;
+  cursor: pointer;
+}
